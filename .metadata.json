@@ -1,9 +1,5 @@
 [
   {
-    "package": "netdiffuseR",
-    "oncran": true
-  },
-  {
     "package": "netplot",
     "oncran": true
   }
