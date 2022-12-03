@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "netdiffuseR"]
+	path = netdiffuseR
+	url = https://github.com/usccana/netdiffuser
+	shallow = true
+	registered = true
 [submodule "netplot"]
 	path = netplot
 	url = https://github.com/usccana/netplot
